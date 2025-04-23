@@ -1,0 +1,16 @@
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.exe
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.deps.json
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.runtimeconfig.json
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.runtimeconfig.dev.json
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\ref\POO9.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\bin\Debug\net5.0\POO9.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.AssemblyInfoInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.AssemblyInfo.cs
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\ref\POO9.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO9\POO9\obj\Debug\net5.0\POO9.genruntimeconfig.cache
