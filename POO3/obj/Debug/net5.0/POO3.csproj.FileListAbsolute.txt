@@ -1,0 +1,16 @@
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.AssemblyInfoInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.AssemblyInfo.cs
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.exe
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.deps.json
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.runtimeconfig.json
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.runtimeconfig.dev.json
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\ref\POO3.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\bin\Debug\net5.0\POO3.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\ref\POO3.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO3\POO3\obj\Debug\net5.0\POO3.genruntimeconfig.cache

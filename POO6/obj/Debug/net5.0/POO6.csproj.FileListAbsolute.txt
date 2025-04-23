@@ -1,0 +1,16 @@
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.AssemblyInfoInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.AssemblyInfo.cs
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.exe
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.deps.json
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.runtimeconfig.json
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.runtimeconfig.dev.json
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\ref\POO6.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\bin\Debug\net5.0\POO6.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\ref\POO6.dll
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.pdb
+C:\Users\JoaoGabriel\source\repos\POO\POO6\POO6\obj\Debug\net5.0\POO6.genruntimeconfig.cache
