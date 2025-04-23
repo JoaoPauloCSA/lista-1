@@ -1,0 +1,16 @@
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.exe
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.deps.json
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.runtimeconfig.json
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.runtimeconfig.dev.json
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.dll
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ref\ListaPOO1.dll
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\bin\Debug\net5.0\ListaPOO1.pdb
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.AssemblyInfoInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.AssemblyInfo.cs
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.dll
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ref\ListaPOO1.dll
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.pdb
+C:\Users\JoaoGabriel\source\repos\POO\ListaPOO1\ListaPOO1\obj\Debug\net5.0\ListaPOO1.genruntimeconfig.cache
